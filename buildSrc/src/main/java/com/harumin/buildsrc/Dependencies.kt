@@ -1,5 +1,5 @@
 object Versions {
-    val kotlin = "1.2.71"
+    val kotlin = "1.3.11"
     val appcompat = "1.0.2"
 }
 
